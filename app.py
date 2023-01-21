@@ -54,3 +54,4 @@ if st.button('Recommend'):
         st.image(posters[3])
     with col5:
         st.text(names[4])
+        st.image(posters[4])
